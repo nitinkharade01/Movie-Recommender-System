@@ -4,7 +4,7 @@
 The Movie Recommender System is an advanced recommendation engine designed to suggest movies to users based on their preferences and viewing history. Utilizing collaborative filtering, content-based filtering, and hybrid approaches, the system provides personalized movie recommendations, enhancing user experience and engagement.
 
 **Team and Role:**
-- Team Size: 8
+- Team Size: 
 - Role: Data Scientist
 
 **Responsibilities:**
